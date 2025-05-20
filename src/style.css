@@ -1,3 +1,11 @@
 * {
-  
+  background-color: antiquewhite;
+}
+
+.dropdown-btn {
+  background-color: aquamarine;
+}
+
+#dropdown-items-container {
+  display: none;
 }
